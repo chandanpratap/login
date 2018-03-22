@@ -1,0 +1,33 @@
+*{color:#fff;}
+
+
+
+
+
+.form-container{border:0px solid #fff; padding:50px 60px; margin-top:20vh;
+
+-webkit-box-shadow: -1px 5px 28px 12px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 5px 28px 12px rgba(0,0,0,0.75);
+box-shadow: -1px 5px 28px 12px rgba(0,0,0,0.75);}
+
+
+body { 
+    background-image: url('images/ram.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+#error_msg{
+	width:50%;
+	margin:5px auto;
+	height:30px;
+	border:1px solid #FF0000;
+	background:#FFB9B8;
+	color:#FF0000;
+	text-align:center;
+	padding-top:10px;
+}
+td{
+	text-align:right;
+}
